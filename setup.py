@@ -3,15 +3,15 @@ from setuptools import setup, find_packages
 from os import path
 base_dir = path.abspath(path.dirname(__file__))
 setup(
-  name = 'blackpink',        
-  packages = ['blackpink'],
+  name = 'blackpinkk',        
+  packages = ['blackpinkk'],
   include_package_data=True,
   version = '0.6',    
   license='MIT',     
   description = 'Blackpink Logo Generator', 
   author = 'Krypton Byte',                  
   author_email = 'galaxyvplus6434@gmail.com',     
-  url = 'https://github.com/krypton-byte/blackpink',   
+  url = 'https://github.com/NayanpR0/blackpinkk',   
   download_url = 'https://github.com/krypton-byte/blackpink/archive/0.1.tar.gz',    
   keywords = ['blackpink', 'logo', 'generator'], 
   install_requires=[           
